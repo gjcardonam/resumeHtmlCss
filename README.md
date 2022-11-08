@@ -3,9 +3,9 @@
 Este proyecto consiste en la creación de mi hoja de vida en un formato elegante y moderno.
 
 Contiene tres archivos:
--Un archivo HTML
--Un archivo CSS
--Una imágen
+- Un archivo HTML
+- Un archivo CSS
+- Una imágen
 
 El Html contiene la información y estructura, el CSS el diseño y formas, además, lo hace responsivo, y la imágen es mi fotografía.
 

@@ -13,6 +13,26 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  flex-direction: column;
+}
+
+.buttondiv{
+  justify-content: left;
+  width: 100%;
+  position: relative;
+  max-width: 1000px;
+min-height: 100px;
+}
+
+button{
+  background-color: #003147;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 .container {
